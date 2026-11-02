@@ -1,51 +1,49 @@
+<a href="https://github.com/suhailchalil?tab=repositories">
+  <img src="assets/hero.svg" width="100%" alt="Suhail Chalil — Freelance developer and creative technologist. Digital experiences with strong design and practical engineering. Web development, mobile apps, AI automation, AI video and digital marketing. Open to freelance work.">
+</a>
+
 <p align="center">
-  <img src="media/header.svg" alt="Suhail Chalil — design, development, and growth" width="100%" />
+  <a href="https://github.com/suhailchalil/invito-bello-case-study"><img src="assets/btn-case-study.svg" height="42" alt="Read the Invito Bello case study"></a>&nbsp;&nbsp;
+  <a href="https://github.com/suhailchalil?tab=repositories"><img src="assets/btn-repositories.svg" height="42" alt="Browse all repositories"></a>
 </p>
 
-I’m a freelance developer and creative technologist. I build websites and mobile experiences, use AI to automate useful work and make video, and connect the finished product to digital marketing.
+<img src="assets/about.svg" width="100%" alt="About — Strong design, practical engineering, real results. I’m a freelance developer and creative technologist. I build websites and mobile experiences, use AI to automate useful work and make video, and connect the finished product to digital marketing. Services: web development, mobile apps, AI automation, AI video and digital marketing.">
 
-**What I work on:** web development · mobile apps · AI automation · AI video · digital marketing
+<a href="https://github.com/suhailchalil/invito-bello-case-study">
+  <img src="assets/work-invito-bello.svg" width="100%" alt="Featured: Invito Bello, a premium digital-invitation product designed and developed from scratch. 13 original mobile-first designs, a live personalisation studio, secure publishing after payment, RSVP and guest replies. Role: product, design, frontend, backend and motion. Built with Next.js, React, TypeScript, GSAP, Three.js, Supabase and Stripe.">
+</a>
+<p align="center">
+  <a href="https://github.com/suhailchalil/invito-bello-case-study"><img src="assets/btn-case-study.svg" height="42" alt="Read the Invito Bello case study"></a>
+</p>
 
-## Selected work
+<a href="https://suhailchalil.github.io/klack/">
+  <img src="assets/work-klack.svg" width="100%" alt="KLACK — an interactive mechanical keyboard storefront concept with layered motion, product storytelling and responsive design. HTML, CSS and JavaScript.">
+</a>
+<p align="center">
+  <a href="https://suhailchalil.github.io/klack/"><img src="assets/btn-live.svg" height="42" alt="KLACK live demo"></a>&nbsp;&nbsp;
+  <a href="https://github.com/suhailchalil/klack"><img src="assets/btn-source.svg" height="42" alt="KLACK source code"></a>
+</p>
 
-### [Invito Bello →](https://github.com/suhailchalil/invito-bello-case-study)
+<a href="https://suhailchalil.github.io/prime-hydration/">
+  <img src="assets/work-prime.svg" width="100%" alt="PRIME Hydration — a three-flavour campaign hero with swipe navigation and layered parallax, built in both vanilla JavaScript and Next.js.">
+</a>
+<p align="center">
+  <a href="https://suhailchalil.github.io/prime-hydration/"><img src="assets/btn-live.svg" height="42" alt="PRIME Hydration live demo"></a>&nbsp;&nbsp;
+  <a href="https://github.com/suhailchalil/prime-hydration"><img src="assets/btn-source.svg" height="42" alt="PRIME Hydration source code"></a>
+</p>
 
-A full-stack digital invitation product with interactive designs, a live personalisation studio, publishing, payments, and guest replies. I led the product design, frontend, backend, and motion work. The commercial source is private; the public repository is a visual and technical case study.
+<a href="https://suhailchalil.github.io/rose-eternelle/">
+  <img src="assets/work-rose-eternelle.svg" width="100%" alt="Rose Éternelle — a scroll-driven fragrance film that moves from video into a layered WebGL world and through a cloud transition. Three.js, WebGL and JavaScript.">
+</a>
+<p align="center">
+  <a href="https://suhailchalil.github.io/rose-eternelle/"><img src="assets/btn-live.svg" height="42" alt="Rose Éternelle live demo"></a>&nbsp;&nbsp;
+  <a href="https://github.com/suhailchalil/rose-eternelle"><img src="assets/btn-source.svg" height="42" alt="Rose Éternelle source code"></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/suhailchalil/klack"><img src="media/klack.webp" alt="KLACK mechanical keyboard storefront" width="100%" /></a><br />
-      <strong><a href="https://github.com/suhailchalil/klack">KLACK</a></strong><br />
-      An interactive mechanical keyboard storefront concept with layered motion, product storytelling, and responsive design.<br />
-      <a href="https://suhailchalil.github.io/klack/">Live demo ↗</a><br />
-      <sub>HTML · CSS · JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/suhailchalil/prime-hydration"><img src="media/prime-hydration.webp" alt="PRIME hydration campaign" width="100%" /></a><br />
-      <strong><a href="https://github.com/suhailchalil/prime-hydration">PRIME Hydration</a></strong><br />
-      A three-flavour campaign hero with swipe navigation, layered parallax, and both vanilla JavaScript and Next.js implementations.<br />
-      <a href="https://suhailchalil.github.io/prime-hydration/">Live demo ↗</a><br />
-      <sub>Next.js · React · JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/suhailchalil/rose-eternelle"><img src="media/rose-eternelle.webp" alt="Rose Éternelle fragrance experience" width="100%" /></a><br />
-      <strong><a href="https://github.com/suhailchalil/rose-eternelle">Rose Éternelle</a></strong><br />
-      A scroll-driven fragrance film that moves from video into a layered WebGL world and through a cloud transition.<br />
-      <a href="https://suhailchalil.github.io/rose-eternelle/">Live demo ↗</a><br />
-      <sub>Three.js · WebGL · JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>How I work</strong><br />
-      I care about the details people feel: clear hierarchy, mobile behaviour, fast loading, thoughtful motion, and a reliable path from an idea to a usable product.<br /><br />
-      <strong>Core tools</strong><br />
-      Next.js · React · TypeScript · CSS · GSAP · Three.js · Supabase · Git
-    </td>
-  </tr>
-</table>
+<img src="assets/approach.svg" width="100%" alt="Approach — the details people feel: clear hierarchy, mobile behaviour, fast loading, thoughtful motion and a reliable path from an idea to a usable product.">
 
-## Work with me
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit — Next.js, React, TypeScript, CSS, GSAP, Three.js, Supabase and Git. Also shipped with Razorpay, Stripe, Resend and WebGL.">
 
-I’m available for freelance websites, mobile app interfaces, AI automation, AI video, and digital marketing projects.
+<img src="assets/contact.svg" width="100%" alt="Work with me — Have something worth building? I’m available for freelance websites, mobile app interfaces, AI automation, AI video and digital marketing projects.">
+
+<!-- Panels in assets/ are generated by scripts/build_profile.py -->

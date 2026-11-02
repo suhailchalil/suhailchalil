@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" width="150" height="50" role="img" aria-labelledby="t d">
+<title id="t">Source code</title>
+<desc id="d">Source code</desc>
+<defs>
+
+</defs>
+<style><![CDATA[
+@font-face{font-family:'pf-sans-b';src:url(data:font/woff2;base64,d09GMgABAAAAAAW4AA8AAAAAC7gAAAVeAAQAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgVgcKgZgP1NUQVRaAFwRCAqFdIUzATYCJAMkCxQABCAFiTYHIBtcCiMRJoxyIMU/E+yGP0cYI8YlV6Q6hliD3c/4V/XeYR48T3Ta+7OzbXyiUjrJSVAAIBMuoYQlkV9oi3N1oEzkMSjGf11IN86A/9i7VcaKK0TuMRqExlHTY/z5/or8e4BjbtjV5Bktxbbj1+smS7C6I6EbutUUqraFmr2smHUVeez8JRHAAQAoBMEfQQAblamBDg6N9pCxcc9ObcjbvFPT1uRt07BLO/KiAf6LIMxeUK2bdmqHq09PDQiwgvgH0SgsCBYUgWggmgaYmEzwf6SmkWkd4tICc9ZACV6pKYzg4nnJjyJXQMH0x6aHtVle1cAEs5Q+C8wiaeosa9V8xjRskNY9nv7hiUkxSRwgO139D/xLieWumgIIgK5nXgKy40AQLBhAagygMKp9h869pDx0b96iiwjSskvDNuJG4UdKsiKAkgq4AEFASqsagIFCSQA4LuJJSEQTzi4sSKfsJNGU9nSi63+BDTQehPu/znzTTDEpwmQLco2S0WwrAClhM3yW3g4KScl7YfUUgVJ50yXPnzx56nRtR1275nNevXrVPvr6dRn4SPbFSJBBFgXL64iX2UZducIAxgrxxjhZDOAKJ+Vbx7y3MZ/0zLt2qSzeNXz5ejZv06DMLGI3nT1tYluj+54mXjt55yZILik8R4R7z7lezFtcfJMBN2Czdqsdu/Xxo3mYJqk6wHkxnXpAjvQfmsUWuJb9ypUFadf+az3+rDnJ3y8mqfnIkp4aw8pENXBXDIzqUTo+1YpCu4pdODhvyNijX+0589+3HXZQ9Tas9ae16OnpUdJdvULV6LguxfaNypWYanZAnyYR4xsOHnrst0u7Ln4/YZBas26Qfj9+cd35xfrW8gxMkfCp5Kr8oRtjMhar3b1BpSUtm1da2r1B7eKxmQ4XiJjzqWSKJM/gfnUWlCBPqiEXhnWXHbt6cWHwgCb9AiNr57MX0ZiX/m9MXi66dl93hqverrWqLG7btvKCbjW9NbrWqbSoRYtKS7rVo3tXfho7SNavHWC8mbSg2Y6AcSPjr0xOnLQxRc9S9SqM6xTn83WPrzosqVersIkDI3wV6mQPcrveFc9Yc+CwQ5Hm5SUrJNa6NSwK2xdfqt2jYcWlzZqnmFZq1+7GhJe0AGuG8atmVL0/ux1ZGkxt0SBtUs73X8L8c4V3quJuEzYJi7Pzmob19gw7rud36NK/WUjrSpU7x483631XqVIXnbh9PAD9QQBN4EB3nXn1k1X+ajEsADzqNnwCwHNXQQs1/7++aj4DDBQAAj+zZbqPhMh/moVJtsq3SrhZmvp6JTX1v5V7t+t+ilGEUfrZp5QGBLBSCt14eiyNKAxEW4EJwIBgYwIoXMwCgzqsAE1G0WBSVrIqfqLfA/54pB1YsMghsJJdTin22P8q1wFOyals4KKsUbgng8ENIjiMRjGUJrnRDsqT3ugHFbAY0xT3Jf+8lxCAzVhF0DXk5YGh6REMev0JfHWEkxthAM+ATBSF8yqOdApCqKGcIi9cdLuacez+mHcEOd3EdsLYNDR663r2G69nxzYLRtQzpy+h3J7MKEemQuHxZ5fvz+2zxPW3y8bs8eP5gP6kqxEa5IIVAdqO3nf9TsBc6TMbofwciAIm0WGBBaTAQ7NDY29GMUJdwYUQPGHDd3Mcc9DB7lfX5z1ZYvhocpRaMNGgYpO9At0Qg3DHfqlH3859n9MVHt6FE/j+K8bVauy4q19cCd9iM/XjfilJSobTzG1ZT788BqbOqxeDgmvR2BGdbOqqaKB2OToUaFeH/vEPo8/73GusyZb+UJQys33baxTYH8mxU1Q8xm/6FgbuVgH+bV0LEwAA) format('woff2');font-style:normal;font-weight:600;}
+.sans-b{font-family:'pf-sans-b',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-style:normal;font-weight:600;}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;}}
+]]></style>
+<rect x=".75" y=".75" width="148.2" height="48.5" rx="24.25" fill="#111110" stroke="#D8B77A" stroke-opacity=".55" stroke-width="1.5"/>
+<text x="74.9" y="30.4" font-size="15" text-anchor="middle" letter-spacing="0.2" class="sans-b" fill="#F3EDE2">Source code</text>
+</svg>
