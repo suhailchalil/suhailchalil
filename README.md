@@ -18,12 +18,14 @@ A full-stack digital invitation product with interactive designs, a live persona
       <a href="https://github.com/suhailchalil/klack"><img src="media/klack.webp" alt="KLACK mechanical keyboard storefront" width="100%" /></a><br />
       <strong><a href="https://github.com/suhailchalil/klack">KLACK</a></strong><br />
       An interactive mechanical keyboard storefront concept with layered motion, product storytelling, and responsive design.<br />
+      <a href="https://suhailchalil.github.io/klack/">Live demo ↗</a><br />
       <sub>HTML · CSS · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/suhailchalil/prime-hydration"><img src="media/prime-hydration.webp" alt="PRIME hydration campaign" width="100%" /></a><br />
       <strong><a href="https://github.com/suhailchalil/prime-hydration">PRIME Hydration</a></strong><br />
       A three-flavour campaign hero with swipe navigation, layered parallax, and both vanilla JavaScript and Next.js implementations.<br />
+      <a href="https://suhailchalil.github.io/prime-hydration/">Live demo ↗</a><br />
       <sub>Next.js · React · JavaScript</sub>
     </td>
   </tr>
@@ -32,6 +34,7 @@ A full-stack digital invitation product with interactive designs, a live persona
       <a href="https://github.com/suhailchalil/rose-eternelle"><img src="media/rose-eternelle.webp" alt="Rose Éternelle fragrance experience" width="100%" /></a><br />
       <strong><a href="https://github.com/suhailchalil/rose-eternelle">Rose Éternelle</a></strong><br />
       A scroll-driven fragrance film that moves from video into a layered WebGL world and through a cloud transition.<br />
+      <a href="https://suhailchalil.github.io/rose-eternelle/">Live demo ↗</a><br />
       <sub>Three.js · WebGL · JavaScript</sub>
     </td>
     <td width="50%" valign="top">
