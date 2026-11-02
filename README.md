@@ -1,47 +1,48 @@
-# Hi, I'm Suhail
+<p align="center">
+  <img src="media/header.svg" alt="Suhail Chalil — design, development, and growth" width="100%" />
+</p>
 
-I design and build polished websites that help businesses look credible and
-convert attention into enquiries or sales.
+I’m a freelance developer and creative technologist. I build websites and mobile experiences, use AI to automate useful work and make video, and connect the finished product to digital marketing.
 
-My main focus is:
+**What I work on:** web development · mobile apps · AI automation · AI video · digital marketing
 
-- High-converting landing pages
-- Premium e-commerce storefronts
-- Motion-rich product and brand websites
-- Fast, responsive experiences built for real customers
+## Selected work
 
-## Featured work
+### [Invito Bello →](https://github.com/suhailchalil/invito-bello-case-study)
 
-### Invito Bello
+A full-stack digital invitation product with interactive designs, a live personalisation studio, publishing, payments, and guest replies. I led the product design, frontend, backend, and motion work. The commercial source is private; the public repository is a visual and technical case study.
 
-A full-stack digital-invitation product designed and developed from scratch.
-It includes 13 original interactive designs, a live personalisation studio,
-payments, publishing, RSVP management, image uploads, email recovery, and
-mobile-first motion.
-
-**Built with:** Next.js, React, TypeScript, GSAP, Three.js, Supabase, Razorpay,
-Stripe, and Resend.
-
-<!-- Add the live Invito Bello URL here after launch. -->
-
-## What I can build for you
-
-- A focused landing page for a product, campaign, or service
-- A premium Shopify or custom e-commerce experience
-- A responsive business website with strong visual direction
-- A launch-ready site with analytics, forms, payments, and deployment
-
-I care about the details clients notice—clear hierarchy, thoughtful motion,
-mobile behaviour, load performance, and a finish that feels intentional.
-
-## Current stack
-
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `CSS` · `GSAP` · `Three.js`
-· `Supabase` · `Stripe` · `Razorpay` · `Git`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suhailchalil/klack"><img src="media/klack.webp" alt="KLACK mechanical keyboard storefront" width="100%" /></a><br />
+      <strong><a href="https://github.com/suhailchalil/klack">KLACK</a></strong><br />
+      An interactive mechanical keyboard storefront concept with layered motion, product storytelling, and responsive design.<br />
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suhailchalil/prime-hydration"><img src="media/prime-hydration.webp" alt="PRIME hydration campaign" width="100%" /></a><br />
+      <strong><a href="https://github.com/suhailchalil/prime-hydration">PRIME Hydration</a></strong><br />
+      A three-flavour campaign hero with swipe navigation, layered parallax, and both vanilla JavaScript and Next.js implementations.<br />
+      <sub>Next.js · React · JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/suhailchalil/rose-eternelle"><img src="media/rose-eternelle.webp" alt="Rose Éternelle fragrance experience" width="100%" /></a><br />
+      <strong><a href="https://github.com/suhailchalil/rose-eternelle">Rose Éternelle</a></strong><br />
+      A scroll-driven fragrance film that moves from video into a layered WebGL world and through a cloud transition.<br />
+      <sub>Three.js · WebGL · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>How I work</strong><br />
+      I care about the details people feel: clear hierarchy, mobile behaviour, fast loading, thoughtful motion, and a reliable path from an idea to a usable product.<br /><br />
+      <strong>Core tools</strong><br />
+      Next.js · React · TypeScript · CSS · GSAP · Three.js · Supabase · Git
+    </td>
+  </tr>
+</table>
 
 ## Work with me
 
-I am available for selected freelance landing-page, e-commerce, and custom web
-projects.
-
-<!-- Add one professional contact email and your LinkedIn URL before publishing. -->
+I’m available for freelance websites, mobile app interfaces, AI automation, AI video, and digital marketing projects.
